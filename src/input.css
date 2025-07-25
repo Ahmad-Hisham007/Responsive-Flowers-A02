@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
 
 @theme{
     --font-primary: "Noto Serif", "sans-serif";
     --font-body: "Inter", "sans-serif";
     --color-primary: #E95A08;
+    --max-w-6xl: 1140px;
+    --color-gray-001: #8987A1;
+    --color-base: rgba(0, 0, 0, 0.5);
 }
