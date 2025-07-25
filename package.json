@@ -1,0 +1,25 @@
+{
+  "name": "responsive-flowers-a02",
+  "version": "1.0.0",
+  "description": "Programming Hero Assignment 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-Hisham007/Responsive-Flowers-A02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmad-Hisham007/Responsive-Flowers-A02/issues"
+  },
+  "homepage": "https://github.com/Ahmad-Hisham007/Responsive-Flowers-A02#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
